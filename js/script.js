@@ -112,7 +112,7 @@ class Deck {
  */
 class Dealer {
   constructor(){
-    this.name = "Brian Baker";
+    this.name = "Anna Baker";
     this.deck = [];
   }
 
