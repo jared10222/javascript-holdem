@@ -1,8 +1,14 @@
-#wholeCardOne img, #wholeCardTwo img {
+#wholeCardOne img,
+#wholeCardTwo img,
+#computerWholeCardOne img,
+#computerWholeCardTwo img {
   width:125px;
   height:181.5px;
 }
-#wholeCardOne, #wholeCardTwo {
+#wholeCardOne,
+#wholeCardTwo,
+#computerWholeCardOne,
+#computerWholeCardTwo {
   float:left;
   margin:10px;
 }
