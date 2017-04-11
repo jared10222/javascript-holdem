@@ -1,0 +1,13 @@
+#wholeCardOne img, #wholeCardTwo img {
+  width:125px;
+  height:181.5px;
+}
+#wholeCardOne, #wholeCardTwo {
+  float:left;
+  margin:10px;
+}
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
